@@ -67,7 +67,7 @@ Now the document should look like this:
 
 Congratulations, your first configuration is finished.
 
-In the next steps, let's have a look into [our second module.](another-page.md)
+In the next steps, let's have a look into [our second module.](loopchecks.md)
 
 You can use the [editor on GitHub](https://github.com/Synelecs-GmbH/Synelecs-GmbH.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
