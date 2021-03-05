@@ -29,3 +29,16 @@ The rest of the information will be automatically fetched and you should see som
 
 ![](img/loopcheck.png)
 
+#### Loopcheck Test
+
+To perform loopcheck test, start by cliking on button _Start Test_ in the right bottom corner.
+First test will be highlighted. If OPC UA is active, live data will be presented. Otherwise, enter manual value into _Meas Value_ field. If _Meas Value_ is between expected results, Test Result will be **PASS**, otherwise **FAIL**
+When first test is finished, click on _Next_ button to continue testing until end of all tests.
+
+In case there are FAILed items, create _Fault Report_. This can be done directly in the Testcases table against failed test. When test is concluded, write PASS/FAIL into Test Result and click Save. 
+
+Save button will then change to _Actions_. Click _Actions_ -> _For Review_. Workflow status of the loopcheck will change from _Saved_ to _For Approval_. 
+_Tested By_ and _Date Tested_ are automatically filled in.
+
+Witness has now option either to Approve or Reject the results. When he _Rejects_ the loopcheck, user has the option to retest the loopcheck and send it again for approval.
+Once the witness selects _Approve_, loopcheck will be submitted and can't be changed anymore. Also, in this step, fields _Witnessed By_ and _Date Witnessed_ are automatically entered.
