@@ -43,4 +43,4 @@ _Tested By_ and _Date Tested_ are automatically filled in.
 Witness has now option either to Approve or Reject the results. When he _Rejects_ the loopcheck, user has the option to retest the loopcheck and send it again for approval.
 Once the witness selects _Approve_, loopcheck will be submitted and can't be changed anymore. Also, in this step, fields _Witnessed By_ and _Date Witnessed_ are automatically entered.
 
-In the next steps, let's have a look into [Fault Report module.] (fault_report.md)
+In the next steps, let's have a look into [Fault Report module.](fault_report.md)
